@@ -8,7 +8,7 @@ import Image from "next/image";
 
 const Hero = () => {
   return (
-    <div className="px-30 font-sharp py-20">
+    <div className="px-30 font-sharp pt-20">
       <div className="grid grid-cols-2 gap-5">
         <div className="">
           <span className="px-3.5   py-1 border-green-500 border  rounded-2xl text-sm font-semibold text-green-500">
